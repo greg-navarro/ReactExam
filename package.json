@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^4.16.11",
-    "mobx": "^6.3.2",
+    "mobx": "^6.3.3",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
