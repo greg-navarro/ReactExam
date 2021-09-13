@@ -2,7 +2,7 @@ import { hot } from 'react-hot-loader';
 import React from 'react';
 import './App.css';
 
-import StoreInput from './components/StoreInput';
+import StoreInput from './components/storeInput';
 
 const message = 'Welcome to ReactExam1';
 const App = () => (
